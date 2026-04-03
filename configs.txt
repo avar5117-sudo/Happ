@@ -2,4 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-title: RV VPN
 
-vless://99cce0c9-d2a5-4293-91af-155f18eafd9b@r1.mizulina.top:22231?security=tls&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=r1.mizulina.top&sni=r1.mizulina.top&fp=edge#RV%20VPN%20%7C%20Roblox
+vless://99cce0c9-d2a5-4293-91af-155f18eafd9b@r1.mizulina.top:22231?security=tls&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=r1.mizulina.top&sni=r1.mizulina.top&fp=edge#⚡%20RV%20VPN%20%7C%20Обход%20Всего
